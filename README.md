@@ -2,7 +2,7 @@
 - 👀 My real name is Vladimir Putin
 - 🌱 I’m currently learning c++/py
 - 💞️ I’m looking to collaborate on everything I know
-- 📫 @gigelsabie - IG
+- 📫 [discord](https://dsc.bio/gamingxd)
 
 <!---
 GamingXDRO/GamingXDRO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
